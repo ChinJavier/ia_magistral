@@ -1,0 +1,20 @@
+td {
+  border: 1px solid black;
+}
+
+td > img {
+    width: 110px;
+    height: 70px;
+    padding: 10px;
+}
+
+.states-table{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.reflex-agent{
+    display: flex;
+    justify-content: space-around;
+}
